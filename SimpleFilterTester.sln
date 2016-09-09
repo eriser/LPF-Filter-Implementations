@@ -1,0 +1,20 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{B89C27C0-09C5-4528-97B0-B29D60D01244}") = "SimpleFilterTester", "SimpleFilterTester.vcproj", "{25D85117-39C8-4391-8F2B-B128D0927DB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25D85117-39C8-4391-8F2B-B128D0927DB9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{25D85117-39C8-4391-8F2B-B128D0927DB9}.Debug|Win32.Build.0 = Debug|Win32
+		{25D85117-39C8-4391-8F2B-B128D0927DB9}.Release|Win32.ActiveCfg = Release|Win32
+		{25D85117-39C8-4391-8F2B-B128D0927DB9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
